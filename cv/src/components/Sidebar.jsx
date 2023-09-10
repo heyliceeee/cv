@@ -1,4 +1,4 @@
-import Avatar from '../img/profile.jpg'
+import Avatar from '../img/eu.jpg'
 
 import '../styles/components/sidebar.sass'
 
