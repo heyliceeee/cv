@@ -4,10 +4,8 @@ const AboutContainer = () => {
     <section className='about-container'>
       <h2>Sobre</h2>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac conubia at eros neque tincidunt ultrices quis nisi vivamus. Arcu venenatis ipsum odio morbi posuere tortor iaculis laoreet ut.
-      </p>
-      <p>
-        Tempor aenean purus morbi suspendisse mattis enim. Praesent placerat sit turpis id fringilla. Consectetur ipsum vel scelerisque vel est quis faucibus nisl turpis praesent non vivamus interdum. Lorem commodo felis placerat dictum proin aliquet tempor varius lacus tortor. Aliquam ullamcorper risus sollicitudin interdum platea.
+        Possuo o Curso Técnico Superior Profissional em Desenvolvimento Web e para Dispositivos Móveis. 
+        E atualmente aluna da Licenciatura Engenharia Informática na Escola Superior de Tecnologia e Gestão de Felgueiras.
       </p>
     </section>
   )
