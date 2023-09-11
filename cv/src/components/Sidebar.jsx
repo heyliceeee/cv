@@ -1,21 +1,22 @@
-import Avatar from '../img/eu.jpg'
+import SocialNetworkContainer from "./SocialNetworkContainer";
+import InformationContainer from "./InformationContainer";
 
-import '../styles/components/sidebar.sass'
+import Avatar from "../img/eu.jpg";
 
-import SocialNetworks from './SocialNetworks'
+import "../styles/components/sidebar.sass";
 
 const Sidebar = () => {
   return (
     <aside id="sidebar">
-      <img src={Avatar} alt="Alice Dias"/>
+      <img src={Avatar} alt="Alice Dias" />
       <p className="title">Desenvolvedor</p>
-      <SocialNetworks />
-      <p>Informações de contacto</p>
+      <SocialNetworkContainer />
+      <InformationContainer />
       <a href="#" className="btn">
         Download currículo
       </a>
     </aside>
-  )
-}
+  );
+};
 
-export default Sidebar
+export default Sidebar;
