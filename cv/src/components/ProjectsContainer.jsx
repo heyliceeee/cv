@@ -1,4 +1,3 @@
-import '../styles/components/projectscontainer.sass'
 
 const ProjectsContainer = () => {
   return (

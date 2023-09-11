@@ -1,4 +1,3 @@
-import '../styles/components/aboutcontainer.sass'
 
 const AboutContainer = () => {
   return (
